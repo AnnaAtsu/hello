@@ -39,4 +39,15 @@ switch(stroka) {
         console.log('default');
     }
 
-    
+    let arr = [23, 32, 1, 0, -1, 111];
+    let a = new Array(1,2,3,4,7,8,0,);
+    arr[3] = 'strela';
+    console.log(arr);
+
+    // циклы for, while, do while - чтобы циклично выполнить код определенное количество раз
+
+for(var i = 1; i <= 10; i++) {
+
+   console.log(i);
+
+}
