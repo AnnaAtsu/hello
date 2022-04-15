@@ -51,3 +51,22 @@ for(var i = 1; i <= 10; i++) {
    console.log(i);
 
 }
+
+let j = 100;
+while(j > 6) {
+   console.log(j);
+   j /=2;
+} 
+
+/*do {
+  
+*}
+*while(j >150);
+*/
+for(var i = 0; i <= arr.length; i++) {
+
+    console.log("Элемент " + (i + 1) + ": " + arr[i]);
+ 
+ }
+
+ alert('Внимание!');
