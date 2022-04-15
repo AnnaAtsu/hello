@@ -38,3 +38,5 @@ switch(stroka) {
     default:
         console.log('default');
     }
+
+    
