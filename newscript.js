@@ -71,4 +71,11 @@ for(var i = 0; i <= arr.length; i++) {
 
  // alert('Внимание!');
 
+ var text = document.getElementById('text');
+ text.id = 'new id';
+
+ text.style.color = 'blue';
+ text.style.backgroundColor = 'pink';
+ text.innerHTML = 'New<br>string';
+ //document.getElementById('text').style.color = 'white';
  

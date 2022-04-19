@@ -2,3 +2,4 @@ errors.txt
 *.log
 *.err
 .tmp
+.vscode/extensions.json
